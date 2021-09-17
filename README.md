@@ -32,10 +32,8 @@ actionable insights that the head of Microsoft's new movie studio can use to hel
 ***
 
 ## Data
-There are 11 CSV files comprising the dataset. This section will seek to understand the source, properties, and business
-relevance of the data. In particular, we will explore the structure of the data in each file, inspect individual data
-elements to understand their properties, and consider the relationships between the data in each file and to the
-business problem.
+There are 11 CSV files comprising the dataset. After exploring the datasets, we chose to use 3 datasets for our
+to help guide our recommendations.
 
 IMDb is an online database  containing information related to films, tv shows, video games, and the like. We used 
 this dataset for information about a movie's genre, and runtime. We also used this dataset for information on how IMDB's
