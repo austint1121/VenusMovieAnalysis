@@ -95,7 +95,7 @@ return on investment.
 
 ## Information
 
-Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Movie_Analysis.ipynb) or our [presentation](./presentation.pdf).
 
 ## Repository Structure
 
