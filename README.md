@@ -1,8 +1,9 @@
 # Team Venus' Movie Analysis
 
 **Authors**: 
-- [Matthew Turner](https://github.com/austint1121)
+
 - [Andrew Witman](https://github.com/andrewwhitman)
+- [Matthew Turner](https://github.com/austint1121)
 - [Wayne Harrison](https://github.com/wharr1203)
 
 
@@ -32,7 +33,7 @@ actionable insights that the head of Microsoft's new movie studio can use to hel
 ***
 
 ## Data
-There are 11 CSV files comprising the dataset. After exploring the datasets, we chose to use 3 datasets for our
+There are 11 CSV files comprising the dataset. After exploring the datasets, we chose to use 3 of them for our
 to help guide our recommendations.
 
 IMDb is an online database  containing information related to films, tv shows, video games, and the like. We used 
@@ -47,14 +48,43 @@ budget, gross revenue, profit margin, and return on investment.
 
 ***
 
+## Methods
 
-### Visual 1
+Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+
+***
+Questions to consider:
+* How did you prepare, analyze or model the data?
+* Why is this approach appropriate given the data and the business problem?
+***
+
+## Results
+
+### Genre
+Most importantly, in the worst case scenario animation films are the only genre that has a positive ROI.
+This is a new studio, they won't be expecting to make a perfect movie on their first project. They will be looking to
+play it safe, to justify their creation, and to justify future funding. Therefore because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
+
+### Release Month
+Based on these 3 findings would be to release the bulk of your movies during summer and the Holiday seasons.
+ With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
+
+### Runtime
+
+***
+Questions to consider:
+* How do you interpret the results?
+* How confident are you that your results would generalize beyond the data you have?
+***
+
+
+### Typical Return on Investment by Genre
 ![graph1](./Images/Typical Return on Investment by Genre.png)
 
 ## Conclusions
 
 1. Microsoft should make an animated movie since it is the safest choice in regard to return on investment.
-  
+
 
 2. The studio should release the movie during the summer months since movies released during those months typically
 have a higher return on investment  
