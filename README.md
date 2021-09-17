@@ -49,13 +49,11 @@ budget, gross revenue, profit margin, and return on investment.
 ***
 
 ## Methods
+As a group we first explored the datasets we had. After getting an understanding of the data we had, we decided what data
+we would use and from which sources. We then proceeded to clean the data, removing placeholder and null values. Then we
+combined it into a table to get the financial data, and information about the movies. We then analyzed the data using 
+median as a measure of central tendency, and median return on investment as a target.
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
 ***
 
 ## Results
@@ -77,8 +75,12 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 
 
 ### Typical Return on Investment by Genre
-![graph1](./Images/Typical Return on Investment by Genre.png)
+![graph1](./Images/Worst%20Case%20Return%20on%20Investment%20by%20Genre.png)
 
+### Typical ROI by Month for Animations
+![graph2](./Images/month_median_roi.png)
+### Typical Number of Votes by Runtime for Animations
+![graph3](./Images/animation_median.png)
 ## Conclusions
 
 1. Microsoft should make an animated movie since it is the safest choice in regard to return on investment.
@@ -95,7 +97,7 @@ return on investment.
 
 ## Information
 
-Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Movie_Analysis.ipynb) or our [presentation](./presentation.pdf).
 
 ## Repository Structure
 
@@ -108,7 +110,7 @@ Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.i
 │   └── tn_data                         <- Cleaned data from The Numbers
 ├── Images                              <- Folder containing graphs from notebook and presentation
 │   └── ...
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── presentation.pdf                    <- PDF version of project presentation
 ├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 └── README.md                           <- The top-level README for reviewers of this project
               
