@@ -78,7 +78,7 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 ![graph1](./Images/Worst%20Case%20Return%20on%20Investment%20by%20Genre.png)
 
 ### Typical ROI by Month for Animations
-![graph2](./Images/month_median_roi.png)
+![graph2](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/animation_median.png)
 ### Typical Number of Votes by Runtime for Animations
 ![graph3](./Images/animation_median.png)
 ## Conclusions
