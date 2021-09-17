@@ -29,4 +29,26 @@ decided to create a new movie studio, but they don't know anything about creatin
 what types of films are currently doing the best at the box office. You must then translate those findings into
 actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-***
+
+## Information
+
+Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.ipynb) or our [presentation](./presentation.pdf).
+
+For any additional questions, please contact **name & email, name & email**
+
+## Repository Structure
+
+```
+├── Data                                <- Directory containing both cleaned and raw data
+│   ├── zippedData                      <- Compressed, unmodified data from our sources 
+│   ├── imdb_data                       <- Cleaned data from IMDB
+│   ├── tmdb_data                       <- Cleaned data from TheMovieDB
+│   └── tn_data                         <- Cleaned data from The Numbers
+├── Images                              <- Folder containing graphs from notebook and presentation
+│   └── ...
+├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── VenusFinalNotebook.ipynb            <- Narrative documentation of analysis in Jupyter notebook
+└── README.md                           <- The top-level README for reviewers of this project
+              
+
+``` 
