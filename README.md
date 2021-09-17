@@ -17,7 +17,7 @@ released during the summer would typically have a higher return on investment th
 animated movies typically had the highest return on investment when they were 100 minutes long.
 Therefore, we recommended that:
 
-1. Microsoft makes animated movies
+1. The new studio makes animated movies
 2. The studio should release movies during the summer months
 3. The studio should aim to make movies approx. 100 minutes long.
 ***
@@ -61,7 +61,7 @@ median as a measure of central tendency, and median return on investment as a ta
 ### Genre
 Most importantly, in the worst case scenario animation films are the only genre that has a positive ROI.
 This is a new studio, they won't be expecting to make a perfect movie on their first project. They will be looking to
-play it safe, to justify their creation, and to justify future funding. Therefore because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
+play it safe, to justify their creation, and to justify future funding. Therefore, because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
 
 ### Release Month
 Based on these 3 findings would be to release the bulk of your movies during summer.
@@ -87,7 +87,7 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 
 
 2. The studio should release the movie during the summer months since movies released during those months typically
-have a higher return on investment  
+have a higher return on investment
   
 
 3. The studio should aim to make the movie approx. 100 minutes long since movies longer/shorter generally have a worse
@@ -113,7 +113,7 @@ or our [presentation](https://github.com/austint1121/VenusMovieAnalysis/blob/mai
 │   └── ...
 ├── presentation.pdf                    <- PDF version of project presentation
 ├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-└── README.md                           <- The top-level README for reviewers of this project
+└── README.md                           <- Top-level README 
               
 
 ``` 
