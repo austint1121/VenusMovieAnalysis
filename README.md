@@ -47,6 +47,23 @@ released.
 The Numbers is a website used as a source for movie financial data. We used this data to find metrics on a movie's profit,
 budget, gross revenue, profit margin, and return on investment.
 
+***
+
+
+### Visual 1
+![graph1](./Images/Typical Return on Investment by Genre.png)
+
+## Conclusions
+
+1. Microsoft should make an animated movie since it is the safest choice in regard to return on investment.
+  
+
+2. The studio should release the movie during the summer months since movies released during those months typically
+have a higher return on investment  
+  
+
+3. The studio should aim to make the movie approx. 100 minutes long since movies longer/shorter generally have a worse
+return on investment.
 
 ***
 
@@ -54,13 +71,12 @@ budget, gross revenue, profit margin, and return on investment.
 
 Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.ipynb) or our [presentation](./presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
-
 ## Repository Structure
 
 ```
 ├── Data                                <- Directory containing both cleaned and raw data
 │   ├── zippedData                      <- Compressed, unmodified data from our sources 
+│   │   └── ...
 │   ├── imdb_data                       <- Cleaned data from IMDB
 │   ├── tmdb_data                       <- Cleaned data from TheMovieDB
 │   └── tn_data                         <- Cleaned data from The Numbers
