@@ -2,7 +2,7 @@
 
 **Authors**: 
 
-- [Andrew Witman](https://github.com/andrewwhitman)
+- [Andrew Whitman](https://github.com/andrewwhitman)
 - [Matthew Turner](https://github.com/austint1121)
 - [Wayne Harrison](https://github.com/wharr1203)
 
@@ -64,8 +64,8 @@ This is a new studio, they won't be expecting to make a perfect movie on their f
 play it safe, to justify their creation, and to justify future funding. Therefore, because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
 
 ### Release Month
-Based on these 3 findings would be to release the bulk of your movies during summer.
-With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
+Based on these findings, the studio should release the bulk of your movies during summer.
+With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.
 
 ### Runtime
 The 90th, 50th, and 10th percentile outcome for an animation with a runtime of 100 minutes is superior to its peers.
@@ -74,7 +74,7 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 ***
 
 
-### Typical Return on Investment by Genre
+### Worst Case Return on Investment by Genre
 ![graph1](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/Worst%20Case%20Return%20on%20Investment%20by%20Genre.png)
 
 ### Typical ROI by Month for Animations
