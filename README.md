@@ -49,13 +49,11 @@ budget, gross revenue, profit margin, and return on investment.
 ***
 
 ## Methods
+As a group we first explored the datasets we had. After getting an understanding of the data we had, we decided what data
+we would use and from which sources. We then proceeded to clean the data, removing placeholder and null values. Then we
+combined it into a table to get the financial data, and information about the movies. We then analyzed the data using 
+median as a measure of central tendency, and median return on investment as a target.
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
 ***
 
 ## Results
