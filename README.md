@@ -12,14 +12,14 @@
 The goal of this project is to provide actionable insights to the head of Microsoft's new fictional movie studio. We
 used data from Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers. After analyzing the data the group
 decided to recommend a genre of movie to make, which month to release the movie in, and how long the movie should be.
-The results of our analysis found that the safest genre of movie to make would be an Animated film. We found that movies 
+The results of our analysis found that the safest genre of movie to make would be an Animated film. We found that animated movies 
 released during the summer would typically have a higher return on investment then any other month. Finally, we found
 animated movies typically had the highest return on investment when they were 100 minutes long.
 Therefore, we recommended that:
 
-1. Microsoft makes an animated movie
-2. The studio should release the movie during the summer months
-3. The studio should aim to make the movie approx. 100 minutes long.
+1. Microsoft makes animated movies
+2. The studio should release movies during the summer months
+3. The studio should aim to make movies approx. 100 minutes long.
 ***
 ## Business Problem
 
@@ -66,15 +66,13 @@ This is a new studio, they won't be expecting to make a perfect movie on their f
 play it safe, to justify their creation, and to justify future funding. Therefore because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
 
 ### Release Month
-Based on these 3 findings would be to release the bulk of your movies during summer and the Holiday seasons.
- With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
+Based on these 3 findings would be to release the bulk of your movies during summer.
+With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
 
 ### Runtime
+The 90th, 50th, and 10th percentile outcome for an animation with a runtime of 100 minutes is superior to its peers.
+Typically, a 100-minute animation increases the number of votes by 548%, or 6.48x.
 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
 ***
 
 
