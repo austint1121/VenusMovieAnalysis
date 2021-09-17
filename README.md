@@ -75,12 +75,12 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 
 
 ### Typical Return on Investment by Genre
-![graph1](./Images/Worst%20Case%20Return%20on%20Investment%20by%20Genre.png)
+![graph1](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/Worst%20Case%20Return%20on%20Investment%20by%20Genre.png)
 
 ### Typical ROI by Month for Animations
-![graph2](./Images/month_median_roi.png)
+![graph2](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/animation_median.png)
 ### Typical Number of Votes by Runtime for Animations
-![graph3](./Images/animation_median.png)
+![graph3](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/animation_median.png)
 ## Conclusions
 
 1. Microsoft should make an animated movie since it is the safest choice in regard to return on investment.
@@ -97,7 +97,8 @@ return on investment.
 
 ## Information
 
-Please review our full analysis in [our Jupyter Notebook](./Movie_Analysis.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Movie_Analysis.ipynb)
+or our [presentation](https://github.com/austint1121/VenusMovieAnalysis/blob/main/presentation.pdf)
 
 ## Repository Structure
 
