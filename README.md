@@ -76,7 +76,10 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 
 ### Typical Return on Investment by Genre
 ![graph1](./Images/Typical Return on Investment by Genre.png)
-
+### Typical ROI by Month for Animations
+![graph2](./Images/month_median_roi.png)
+### Typical Number of Votes by Runtime for Animations
+![graph3](./Images/animation_median.png)
 ## Conclusions
 
 1. Microsoft should make an animated movie since it is the safest choice in regard to return on investment.
