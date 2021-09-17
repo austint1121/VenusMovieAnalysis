@@ -111,7 +111,7 @@ Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.i
 ├── Images                              <- Folder containing graphs from notebook and presentation
 │   └── ...
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── VenusFinalNotebook.ipynb            <- Narrative documentation of analysis in Jupyter notebook
+├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 └── README.md                           <- The top-level README for reviewers of this project
               
 
