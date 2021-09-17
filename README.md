@@ -12,14 +12,14 @@
 The goal of this project is to provide actionable insights to the head of Microsoft's new fictional movie studio. We
 used data from Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers. After analyzing the data the group
 decided to recommend a genre of movie to make, which month to release the movie in, and how long the movie should be.
-The results of our analysis found that the safest genre of movie to make would be an Animated film. We found that movies 
+The results of our analysis found that the safest genre of movie to make would be an Animated film. We found that animated movies 
 released during the summer would typically have a higher return on investment then any other month. Finally, we found
 animated movies typically had the highest return on investment when they were 100 minutes long.
 Therefore, we recommended that:
 
-1. Microsoft makes an animated movie
-2. The studio should release the movie during the summer months
-3. The studio should aim to make the movie approx. 100 minutes long.
+1. Microsoft makes animated movies
+2. The studio should release movies during the summer months
+3. The studio should aim to make movies approx. 100 minutes long.
 ***
 ## Business Problem
 
@@ -49,13 +49,11 @@ budget, gross revenue, profit margin, and return on investment.
 ***
 
 ## Methods
+As a group we first explored the datasets we had. After getting an understanding of the data we had, we decided what data
+we would use and from which sources. We then proceeded to clean the data, removing placeholder and null values. Then we
+combined it into a table to get the financial data, and information about the movies. We then analyzed the data using 
+median as a measure of central tendency, and median return on investment as a target.
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
 ***
 
 ## Results
@@ -66,21 +64,23 @@ This is a new studio, they won't be expecting to make a perfect movie on their f
 play it safe, to justify their creation, and to justify future funding. Therefore because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
 
 ### Release Month
-Based on these 3 findings would be to release the bulk of your movies during summer and the Holiday seasons.
- With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
+Based on these 3 findings would be to release the bulk of your movies during summer.
+With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
 
 ### Runtime
+The 90th, 50th, and 10th percentile outcome for an animation with a runtime of 100 minutes is superior to its peers.
+Typically, a 100-minute animation increases the number of votes by 548%, or 6.48x.
 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
 ***
 
 
 ### Typical Return on Investment by Genre
-![graph1](./Images/Typical Return on Investment by Genre.png)
+![graph1](./Images/Worst%20Case%20Return%20on%20Investment%20by%20Genre.png)
 
+### Typical ROI by Month for Animations
+![graph2](./Images/month_median_roi.png)
+### Typical Number of Votes by Runtime for Animations
+![graph3](./Images/animation_median.png)
 ## Conclusions
 
 1. Microsoft should make an animated movie since it is the safest choice in regard to return on investment.
@@ -97,7 +97,7 @@ return on investment.
 
 ## Information
 
-Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Movie_Analysis.ipynb) or our [presentation](./presentation.pdf).
 
 ## Repository Structure
 
@@ -110,7 +110,7 @@ Please review our full analysis in [our Jupyter Notebook](./VenusFinalNotebook.i
 │   └── tn_data                         <- Cleaned data from The Numbers
 ├── Images                              <- Folder containing graphs from notebook and presentation
 │   └── ...
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── presentation.pdf                    <- PDF version of project presentation
 ├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 └── README.md                           <- The top-level README for reviewers of this project
               
