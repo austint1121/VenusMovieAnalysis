@@ -66,15 +66,13 @@ This is a new studio, they won't be expecting to make a perfect movie on their f
 play it safe, to justify their creation, and to justify future funding. Therefore because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
 
 ### Release Month
-Based on these 3 findings would be to release the bulk of your movies during summer and the Holiday seasons.
- With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
+Based on these 3 findings would be to release the bulk of your movies during summer.
+With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
 
 ### Runtime
+The 90th, 50th, and 10th percentile outcome for an animation with a runtime of 100 minutes is superior to its peers.
+Typically, a 100-minute animation increases the number of votes by 548%, or 6.48x.
 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
 ***
 
 
