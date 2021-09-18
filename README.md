@@ -2,7 +2,7 @@
 
 **Authors**: 
 
-- [Andrew Witman](https://github.com/andrewwhitman)
+- [Andrew Whitman](https://github.com/andrewwhitman)
 - [Matthew Turner](https://github.com/austint1121)
 - [Wayne Harrison](https://github.com/wharr1203)
 
@@ -17,7 +17,7 @@ released during the summer would typically have a higher return on investment th
 animated movies typically had the highest return on investment when they were 100 minutes long.
 Therefore, we recommended that:
 
-1. Microsoft makes animated movies
+1. The new studio makes animated movies
 2. The studio should release movies during the summer months
 3. The studio should aim to make movies approx. 100 minutes long.
 ***
@@ -61,11 +61,11 @@ median as a measure of central tendency, and median return on investment as a ta
 ### Genre
 Most importantly, in the worst case scenario animation films are the only genre that has a positive ROI.
 This is a new studio, they won't be expecting to make a perfect movie on their first project. They will be looking to
-play it safe, to justify their creation, and to justify future funding. Therefore because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
+play it safe, to justify their creation, and to justify future funding. Therefore, because animated films do reasonably well across all scenarios the safest choice would to be an animated film.
 
 ### Release Month
-Based on these 3 findings would be to release the bulk of your movies during summer.
-With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.¶
+Based on these findings, the studio should release the bulk of your movies during summer.
+With a new studio, you would want to justify your profits right away, so it would be wise to follow the release date trend.
 
 ### Runtime
 The 90th, 50th, and 10th percentile outcome for an animation with a runtime of 100 minutes is superior to its peers.
@@ -74,11 +74,11 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 ***
 
 
-### Typical Return on Investment by Genre
+### Worst Case Return on Investment by Genre
 ![graph1](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/Worst%20Case%20Return%20on%20Investment%20by%20Genre.png)
 
 ### Typical ROI by Month for Animations
-![graph2](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/animation_median.png)
+![graph2](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/month_median_roi.png)
 ### Typical Number of Votes by Runtime for Animations
 ![graph3](https://github.com/austint1121/VenusMovieAnalysis/blob/main/Images/animation_median.png)
 ## Conclusions
@@ -87,7 +87,7 @@ Typically, a 100-minute animation increases the number of votes by 548%, or 6.48
 
 
 2. The studio should release the movie during the summer months since movies released during those months typically
-have a higher return on investment  
+have a higher return on investment
   
 
 3. The studio should aim to make the movie approx. 100 minutes long since movies longer/shorter generally have a worse
@@ -113,7 +113,7 @@ or our [presentation](https://github.com/austint1121/VenusMovieAnalysis/blob/mai
 │   └── ...
 ├── presentation.pdf                    <- PDF version of project presentation
 ├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-└── README.md                           <- The top-level README for reviewers of this project
+└── README.md                           <- Top-level README 
               
 
 ``` 
